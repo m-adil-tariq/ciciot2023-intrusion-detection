@@ -3,7 +3,7 @@
 A Random Forest–based intrusion detection project on the CICIoT2023 IoT traffic dataset, designed as a direct methodological comparison to an earlier CICIDS2017 project — same model, same pipeline, different dataset.
 
 
-Read Full Report here: [CICIoT.pdf](./CICIoT.pdf)
+Read Full Report here: [Report.pdf](./Report.pdf)
 
 ## Overview
 
