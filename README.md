@@ -48,6 +48,3 @@ This project trains a Random Forest classifier on an 8-class version of CICIoT20
 - El Balbali, H., & Abou El Kalam, A. (2025). *Derived CICIoT 2023 datasets.* Mendeley Data, V1. DOI: 10.17632/x36s52ybfw.1.
 - Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). *Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization.* ICISSP.
 
-## Author
-
-Muhammad Adil (Independent research project)
